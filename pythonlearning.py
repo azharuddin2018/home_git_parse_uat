@@ -85,13 +85,13 @@
 # print(null_dict)
 
 
-#nested dictionary
-student = {
-    "name" : "azhar",
-    "subjects" : {
-        "physics":80, "maths":90, "science":99
-        }
-}
+# #nested dictionary
+# student = {
+#     "name" : "azhar",
+#     "subjects" : {
+#         "physics":80, "maths":90, "science":99
+#         }
+# }
 
 #print(student["subjects"]["maths"])
 
@@ -102,5 +102,29 @@ student = {
 # pairs = list(student.items())
 # print(pairs[0])
 
-print(student["name"]) ##error while using square brackets for any non-existing variable
-print(student.get("name")) ##no error when using function to call a non-existing variable
+# print(student["name"]) ##error while using square brackets for any non-existing variable
+# print(student.get("name")) ##no error when using function to call a non-existing variable
+
+# # collection = {1, 2, 2, 3, 4}
+
+# # print(collection)
+# # print(type(collection))
+
+
+# py_dict = {
+#     "table":["a piece of furniture","facts and figures"],
+#     "cat" : "a small animal"
+# }
+
+# print(py_dict)
+
+
+# class_rooms = {"python","java","C++","python","javascript","java","python","java","C++","C"}
+
+# print(len(class_rooms))
+
+
+dict = {}
+
+
+
