@@ -124,7 +124,5 @@
 # print(len(class_rooms))
 
 
-dict = {}
-
-
+#dict = {}
 
